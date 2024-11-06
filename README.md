@@ -7,3 +7,5 @@ My project provides the following functionalities:
   2) Change the text completely to lowercase
   3) Shows the word and character count
   4) Can enable Dark and Light theme
+
+To run, locate to the root destination of the project and in terminal type: npm start
